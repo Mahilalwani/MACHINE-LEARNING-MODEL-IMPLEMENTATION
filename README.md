@@ -21,4 +21,5 @@ Then trained a Multinomial Naive Bayes model on the data. Evaluated its performa
 Performed cross-validation for reliabilty check.
 As a result, The accuracy came as 0.7 that means 70% accurate. Because I provided a very small dataset of just 10 mails, the model couldn't see any patterns and thus it couldn't have very high accuracy still this accuracy is not bad!
 Using larger data set can result in better accuracy.
-Here's the confusion matrix
+Here's the confusion matrix:
+![Image](https://github.com/user-attachments/assets/7e7a7234-95ff-4d3a-a071-e864b0c3ec83)
